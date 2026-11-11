@@ -48,3 +48,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\packaging\build.ps1
 1. Na mesma rede local ou no mesmo ambiente Tailscale, um jogador seleciona **Hospedar Jogo (LAN / Tailscale)** e compartilha o endereço e a porta da sala.
 2. Os demais selecionam **Entrar em Jogo** e informam o endereço no formato `host:porta`. Todos devem usar a mesma versão do jogo.
 3. Depois que o anfitrião iniciar a expedição, cada jogador controla seu próprio herói. Quando a partida pedir confirmação para avançar, todos devem marcar **Estou pronto**.
+
+## Licença
+
+O Wyrdfall é distribuído sob a [licença MIT](LICENSE).
